@@ -1,0 +1,18 @@
+.lead {
+    max-width: 984px;
+    margin: 0 auto;
+}
+
+.lead__title {
+    color: white;
+}
+
+.lead__subtitle {
+    color: white;
+}
+
+.lead__image {}
+
+.lead__caption {
+    color: white;
+}

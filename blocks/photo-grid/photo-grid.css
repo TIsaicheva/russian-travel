@@ -1,0 +1,10 @@
+.photo-grid {
+    max-width: 1184px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.photo-grid__item {
+    min-width: 284px;
+    min-height: 213px;
+}

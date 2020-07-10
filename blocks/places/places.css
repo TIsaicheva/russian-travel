@@ -1,0 +1,29 @@
+.places {
+    max-width: 984px;
+    margin: 0 auto;
+}
+
+.place_items {
+    list-style: none;
+}
+
+.place {
+    color: white;
+}
+
+.place__title {}
+
+.place__image {
+    min-width: 460px;
+    min-height: 460px;
+}
+
+.website {}
+
+.website__url-heading {}
+
+.website__link {
+    color: white;
+}
+
+.place__text {}

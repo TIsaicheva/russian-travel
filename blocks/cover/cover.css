@@ -1,0 +1,16 @@
+.cover {
+    max-width: 1184px;
+    min-height: 740px;
+    margin: 0 auto;
+    background: url(../../images/cover-background.jpg) no-repeat;
+}
+
+.cover__title {
+    color: white;
+}
+
+.cover__subtitle {
+    color: white;
+}
+
+.cover__background {}

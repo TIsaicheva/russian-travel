@@ -1,0 +1,22 @@
+.intro {
+    max-width: 690px;
+    margin-left: 148px;
+}
+
+.intro__title {
+    color: white;
+}
+
+.intro__subtitle {
+    color: white;
+}
+
+.intro__items {
+    color: white;
+    list-style: none;
+    padding: 0;
+}
+
+.intro__item {
+    color: white;
+}

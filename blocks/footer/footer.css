@@ -1,0 +1,17 @@
+.footer {
+    max-width: 1184px;
+    min-height: 18px;
+    margin: 0 auto;
+    color: white;
+}
+
+.menu {}
+
+.menu-links {
+    list-style: none;
+}
+
+.menu-links__item {
+    text-decoration: none;
+    color: white;
+}
