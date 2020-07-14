@@ -1,4 +1,13 @@
 .header__logo {
     min-width: 176px;
     min-height: 52px;
+    background: url(../../../images/header__logo.svg);
+}
+
+@media (max-width: 425px) {
+    .header__logo {
+        min-width: 142px;
+        min-height: 42px;
+        background: url(../../../images/header__logo_s.svg);
+    }
 }
