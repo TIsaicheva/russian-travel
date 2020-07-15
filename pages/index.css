@@ -31,7 +31,7 @@
 @import url(../blocks/website/__url-heading/website__url-heading.css);
 @import url(../blocks/website/__link/website__link.css);
 @import url(../blocks/place/__text/place__text.css);
-@import url(../blocks/place/__text/_paragraph-two/place__text_paragraph-two.css);
+@import url(../blocks/place/__text/_paragraph_shift/place__text_paragraph_shift.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__background/cover__background.css);

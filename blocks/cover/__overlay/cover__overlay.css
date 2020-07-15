@@ -12,14 +12,14 @@
 @media (max-width: 1024px) {
     .cover__overlay {
         max-width: 1024px;
-        min-height: 640px; 
+        min-height: 640px;
     }
 }
 
 @media (max-width: 768px) {
     .cover__overlay {
         max-width: 768px;
-        min-height: 480px; 
+        min-height: 480px;
     }
 }
 

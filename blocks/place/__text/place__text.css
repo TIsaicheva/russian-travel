@@ -1,6 +1,5 @@
 .place__text {       
     margin: 0;
-    min-height: 150px;
     font-weight: normal;
     font-size: 18px;
     line-height: 1.7;
@@ -10,16 +9,15 @@
 @media (min-width: 425px) and (max-width: 912px) {
     .place__text {  
         font-size: 16px;
-        line-height: 1.6;
+        line-height: 1.6;       
     }
 }
 
 @media (max-width: 737px) {
     .place__text {  
         max-width: 288px;
-        min-width: 208px;
         margin: 0 auto;
-        padding-top: 32px;
+        padding: 32px 0 0 16px;
         font-size: 16px;
         line-height: 1.6;
     }

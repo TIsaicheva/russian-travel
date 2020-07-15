@@ -19,7 +19,6 @@
 
 @media (max-width: 425px) {
     .lead__image {
-        max-width: 320px;
-        min-height: 200px;
+        max-width: 320px;        
     }
 } 

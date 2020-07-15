@@ -1,25 +1,21 @@
 .photo-grid__item {
     min-width: 284px;
-    min-height: 213px;
 }
 
 @media (min-width: 950px) and (max-width: 1220px) {
     .photo-grid__item {
         min-width: 300px;
-        min-height: 225px;
     }
 }
 
 @media (max-width: 950px) {
    .photo-grid__item {
         max-width: 352px;
-        min-height: 264px;
     }
 }
 
 @media (max-width: 674px) {
     .photo-grid__item {
         min-width: 288px;
-        min-height: 216px;
     }
 }
