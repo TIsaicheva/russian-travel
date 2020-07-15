@@ -1,0 +1,10 @@
+.website {   
+    min-height: 46px;       
+    padding-bottom: 48px;
+}
+
+@media (max-width: 737px) {
+    .website {
+        display: none;
+    }
+}

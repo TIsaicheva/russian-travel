@@ -1,0 +1,30 @@
+.place {
+    max-width: 984px;
+    max-height: 660px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;    
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .place {
+        max-width: 928px;
+        max-height: 644px;
+    }  
+}
+
+@media (min-width: 425px) and (max-width: 912px) {
+    .place {
+        max-width: 720px;
+        max-height: 580px;
+    }
+}
+
+@media (max-width: 737px) {
+    .place {
+        max-width: 320px;
+        max-height: 963px;
+        flex-wrap: nowrap;
+    }
+}

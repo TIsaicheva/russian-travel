@@ -1,0 +1,9 @@
+.place__text_paragraph-two {
+    padding-top: 24px; 
+}
+
+@media (max-width: 737px) {
+    .place__text_paragraph-two {
+        padding-top: 24px; 
+    }
+}

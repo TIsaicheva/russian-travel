@@ -1,0 +1,28 @@
+.cover__background {
+    max-width: 100%;
+    min-height: 740px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@media (max-width: 1024px) {  
+    .cover__background {
+        min-height: 640px; 
+    }
+}
+
+@media (max-width: 768px) {
+    .cover__background {
+        max-width: 768px;
+        min-height: 480px;
+    }
+}
+
+@media (max-width: 497px) {
+    .cover__background {
+        max-width: 320px;
+        max-height: 200px;
+    }
+} 

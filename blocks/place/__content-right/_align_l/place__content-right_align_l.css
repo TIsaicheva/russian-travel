@@ -1,0 +1,21 @@
+.place__content-right_align_l {
+    padding: 106px 0 0 40px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .place__content-right_align_l {
+        padding: 106px 0 0 32px;
+    }  
+}
+
+@media (min-width: 425px) and (max-width: 912px) {
+    .place__content-right_align_l {
+        padding: 0 0 0 28px;
+    }
+}
+
+@media (max-width: 737px) {
+   .place__content-right_align_l {
+        padding: 0;
+    }
+}
