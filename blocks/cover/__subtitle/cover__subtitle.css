@@ -8,13 +8,13 @@
     font-size: 18px;
     line-height: 1.2;
 }
-
+/*
 @media (max-width: 768px) {
     .cover__subtitle { 
         font-size: 14px;
         line-height: 1.14;
     }
-}
+}*/
 
 @media (max-width: 497px) {
   .cover__subtitle {
