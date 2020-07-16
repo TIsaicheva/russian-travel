@@ -7,6 +7,7 @@
     line-height: 1.4;
     max-width: 159px;
     text-transform: uppercase;
+    letter-spacing: 0.15em;
 }
 
 @media (min-width: 425px) and (max-width: 768px) {

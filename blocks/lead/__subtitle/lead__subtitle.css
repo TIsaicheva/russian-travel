@@ -11,9 +11,8 @@
 
 @media (max-width: 425px) {
    .lead__subtitle {
-        max-width: 288px;
-        color: white;
+        max-width: 288px;       
         font-size: 16px;
-        line-height: 1.25;       
+        line-height: 1.25;   
     }
 }

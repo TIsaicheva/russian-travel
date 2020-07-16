@@ -1,5 +1,5 @@
 .website {     
-    padding-bottom: 48px;
+    padding: 0 0 48px 40px;    
 }
 
 @media (max-width: 737px) {

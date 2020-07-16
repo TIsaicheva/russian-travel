@@ -13,18 +13,18 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 690px) {
     .footer {
         max-width: 720px;
-        padding: 88px 0 24px;        
+        padding: 88px 5px 24px;
+        flex-direction: column;      
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 482px) {
     .footer {
         max-width: 186px;        
         margin: 0;
-        padding: 64px 0 24px 16px;
-        flex-direction: column;
+        padding: 64px 0 24px 30px;
     }
 }

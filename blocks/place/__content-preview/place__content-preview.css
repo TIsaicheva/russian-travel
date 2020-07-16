@@ -1,23 +1,23 @@
-.place__content-left {
+.place__content-preview {
     max-width: 460px;
     display: flex;
     flex-direction: column;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    .place__content-left {
+    .place__content-preview {
         max-width: 440px;
     }
 }
 
 @media (min-width: 425px) and (max-width: 912px) {
-   .place__content-left {
+   .place__content-preview {
         max-width: 340px;
     }
 }
 
 @media (max-width: 737px) {
-    .place__content-left {
+    .place__content-preview {
         max-width: 320px;
     }
 }

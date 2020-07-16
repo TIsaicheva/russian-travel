@@ -1,18 +1,19 @@
-.place__content-right {
+.place__content-text {
     max-width: calc(984px - 460px - 40px);
-    display: flex;
-    flex-direction: column;
+    display: flex;    
+    flex-wrap: wrap;
+    align-items: flex-end;   
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    .place__content-right {
+    .place__content-text {
         max-width: calc(928px - 440px - 32px);
         box-sizing: border-box;
     } 
 }
 
 @media (min-width: 425px) and (max-width: 912px) {
-    .place__content-right {
+    .place__content-text {
         max-width: calc(720px - 340px - 28px);
         box-sizing: border-box;
     }

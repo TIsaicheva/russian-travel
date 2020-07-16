@@ -2,7 +2,8 @@
     max-width: 984px;
     width: 100%;
     display: block;
-    padding-top: 64px;    
+    padding-top: 64px;
+    object-fit: cover;
 }
 
 @media (max-width: 1220px) {
