@@ -7,14 +7,12 @@
 
 @media (min-width: 768px) and (max-width: 1024px) {
     .place__content-text {
-        max-width: calc(928px - 440px - 32px);
-        box-sizing: border-box;
+        max-width: calc(928px - 440px - 32px);        
     } 
 }
 
 @media (min-width: 425px) and (max-width: 912px) {
     .place__content-text {
-        max-width: calc(720px - 340px - 28px);
-        box-sizing: border-box;
+        max-width: calc(720px - 340px - 28px);        
     }
 }

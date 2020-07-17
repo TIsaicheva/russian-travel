@@ -1,7 +1,7 @@
 .lead {
     max-width: 984px;
     margin: 0 auto;
-    padding-top: 56px;
+    padding-top: 56px;    
 }
 
 @media (max-width: 1220px) {
@@ -14,12 +14,5 @@
 @media (min-width: 768px) and (max-width: 950px)  {
     .lead {
         max-width: 768px;
-        padding-top: 48px;
     } 
-}
-
-@media (min-width: 425px) and (max-width: 768px) {
-    .lead {       
-        overflow: hidden;
-    }
 }

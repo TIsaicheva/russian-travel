@@ -13,9 +13,15 @@
     }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 768px) {
     .footer {
         max-width: 720px;
+        padding: 92px 5px 24px;        
+    }
+}
+
+@media (max-width: 690px) {
+    .footer {        
         padding: 88px 5px 24px;
         flex-direction: column;      
     }
