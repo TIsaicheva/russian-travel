@@ -5,7 +5,8 @@
     margin-top: 92px;
     position: relative;
     background: url(../../images/cover-background.jpg) no-repeat;
-    background-size: cover;   
+    background-size: cover;
+    position: relative;   
 }
 
 .cover::after {
@@ -21,11 +22,6 @@
 .cover:hover::after {
     content: '';
     background-color: rgba(42, 44, 47, 0.8);   
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
 }
 
 @media (max-width: 1024px) {
