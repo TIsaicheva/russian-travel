@@ -5,6 +5,7 @@
     margin-top: 92px;
     position: relative;
     background: url(../../images/cover-background.jpg) no-repeat;
+    background-position: center;
     background-size: cover;
     position: relative;   
 }
@@ -19,8 +20,7 @@
     bottom: 0;
 }
 
-.cover:hover::after {
-    content: '';
+.cover:hover::after {    
     background-color: rgba(42, 44, 47, 0.8);   
 }
 
